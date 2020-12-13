@@ -1,4 +1,4 @@
-# Project-9-Web-scraping-API-Wrappers
+# Project-9-Web-Scraping-API-Wrappers
 The purpose of this project is to import data from the Dow Jones and complete the following: 
 
 1) How to pull data from an API package 

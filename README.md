@@ -10,3 +10,4 @@ The purpose of this project is to import data from the Dow Jones and complete th
 Method: 
 1) Pulled data from Wikipedia: "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average" 
 2) Normalized unicode string and got ticker symbol (import unicodedata)
+3) Save data to csv file for future use
